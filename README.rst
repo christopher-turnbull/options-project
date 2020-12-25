@@ -1,6 +1,11 @@
 options-project
 ---------------
 
-Uses realtime data from
+uses yfinance for realtime data, a "Pythonic way to download historical market data from Yahoo! finance"
 
-pip import yfinance
+https://pypi.org/project/yfinance/
+
+``pip import yfinance``
+
+
+
