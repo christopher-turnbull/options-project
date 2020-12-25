@@ -1,0 +1,31 @@
+serverless framework?
+https://www.serverless.com/
+
+
+Getting the data
+----------------
+
+API sources:
+
+- Yahoo! Finance
+- Google Finance
+
+Factors to consider when choosing the API:
+
+- Free
+- High limit (500 per minute is good enough)
+- Real-time (no delays of 15 minutes for example)
+
+Testing:
+
+- yfinance
+
+Better to use at some point
+
+- Alpha Vantage API
+
+
+
+
+
+
