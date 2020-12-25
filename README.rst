@@ -5,7 +5,6 @@ uses yfinance for realtime data, a "Pythonic way to download historical market d
 
 https://pypi.org/project/yfinance/
 
-``pip import yfinance``
+.. code-block:: shell
 
-
-
+    $ pip install yfinance
